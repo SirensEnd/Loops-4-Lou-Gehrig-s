@@ -1,6 +1,6 @@
 {
 	"Name": "Loops 4 Lou Gehrig´s 2",
-	"Version": 1744072608,
+	"Version": 1744485903,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -297,7 +297,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"30"
+				"12",
+				"19",
+				"40"
 			],
 			"BalanceTiers": [
 				1
@@ -416,7 +418,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6",
+				"7",
+				"16"
 			],
 			"BalanceTiers": [
 				0
@@ -470,7 +474,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6",
+				"16",
+				"49"
 			],
 			"BalanceTiers": [
 				0
@@ -525,7 +531,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"28",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
 				1
@@ -577,7 +585,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"17",
+				"18",
+				"19"
 			],
 			"BalanceTiers": [
 				1
@@ -627,7 +637,9 @@
 			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
-				0
+				"0",
+				"1",
+				"2"
 			],
 			"BalanceTiers": [
 				0
@@ -675,7 +687,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"17",
+				"54"
 			],
 			"BalanceTiers": [
 				1
@@ -734,7 +748,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"19",
+				"53",
+				"33"
 			],
 			"BalanceTiers": [
 				1
@@ -784,7 +800,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"11",
+				"39"
 			],
 			"BalanceTiers": [
 				1
@@ -836,7 +854,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"20",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
 				1
@@ -937,7 +957,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"10",
+				"12"
 			],
 			"BalanceTiers": [
 				0
@@ -1093,7 +1115,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"32",
+				"34",
+				"36"
 			],
 			"BalanceTiers": [
 				1
@@ -1143,7 +1167,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"5",
+				"8",
+				"9"
 			],
 			"BalanceTiers": [
 				1
@@ -1194,7 +1220,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"10",
+				"22",
+				"50"
 			],
 			"BalanceTiers": [
 				1
@@ -1245,7 +1273,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"5",
+				"8",
+				"54"
 			],
 			"BalanceTiers": [
 				1
@@ -1296,7 +1326,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"7",
+				"14",
+				"41"
 			],
 			"BalanceTiers": [
 				1
@@ -1344,7 +1376,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6",
+				"22",
+				"47"
 			],
 			"BalanceTiers": [
 				0
@@ -1398,7 +1432,7 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1465,7 +1499,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"12",
+				"17",
+				"48"
 			],
 			"BalanceTiers": [
 				1
@@ -1517,7 +1553,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"33",
+				"41"
 			],
 			"BalanceTiers": [
 				1
@@ -1569,7 +1607,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"33",
+				"48"
 			],
 			"BalanceTiers": [
 				0
@@ -1619,7 +1659,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"5",
+				"7",
+				"14"
 			],
 			"BalanceTiers": [
 				0
@@ -1670,7 +1712,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"32",
+				"34",
+				"35"
 			],
 			"BalanceTiers": [
 				1
@@ -1723,7 +1767,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"50",
+				"34",
+				"36"
 			],
 			"BalanceTiers": [
 				1
@@ -1777,7 +1823,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"42",
+				"44",
+				"47"
 			],
 			"BalanceTiers": [
 				0
@@ -1828,7 +1876,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"12",
+				"17",
+				"28"
 			],
 			"BalanceTiers": [
 				1
@@ -1880,7 +1930,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0",
+				"1",
+				"2"
 			],
 			"BalanceTiers": [
 				1
@@ -1928,7 +1980,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"45",
+				"14",
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1982,7 +2036,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"17",
+				"41"
 			],
 			"BalanceTiers": [
 				1
@@ -2036,7 +2092,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"22",
+				"48",
+				"41"
 			],
 			"BalanceTiers": [
 				1
@@ -2086,7 +2144,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"33",
+				"39"
 			],
 			"BalanceTiers": [
 				0
@@ -2191,7 +2251,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"19",
+				"37",
+				"54"
 			],
 			"BalanceTiers": [
 				0
@@ -2244,7 +2306,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"46",
+				"14",
+				"40"
 			],
 			"BalanceTiers": [
 				1
@@ -2297,7 +2361,7 @@
 		{
 			"Name": "The Ghoul",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
