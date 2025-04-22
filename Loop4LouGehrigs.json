@@ -1,6 +1,6 @@
 {
 	"Name": "Loops 4 Lou Gehrig´s 2",
-	"Version": 1745288848,
+	"Version": 1745289884,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -464,10 +464,10 @@
 				18
 			],
 			"ItemWhitelist": [
-				14,
 				0,
-				7,
-				4
+				4,
+				8,
+				14
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -475,20 +475,18 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						1,
 						2,
-						3,
-						4
+						3
 					]
 				},
 				"Med-Kit": {
 					"Addons": [
-						1
+						1,
+						2
 					]
 				},
 				"Toolbox": {
 					"Addons": [
-						0,
 						1,
 						2
 					]
@@ -501,6 +499,9 @@
 				}
 			},
 			"SurvivorOfferings": [
+				2,
+				3,
+				4,
 				5,
 				6
 			],
@@ -585,7 +586,10 @@
 				54
 			],
 			"ItemWhitelist": [
-				4
+				0,
+				4,
+				8,
+				14
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -598,10 +602,16 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -611,6 +621,10 @@
 				}
 			},
 			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -650,19 +664,33 @@
 				70,
 				76
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -671,8 +699,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Shape",
@@ -739,8 +775,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hag",
@@ -770,19 +814,33 @@
 			"IndividualAddonBans": [
 				118
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -791,8 +849,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Doctor",
@@ -881,19 +947,33 @@
 				158,
 				157
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -902,8 +982,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Cannibal",
@@ -933,19 +1021,33 @@
 			"IndividualAddonBans": [
 				174
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -954,8 +1056,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nightmare",
@@ -987,19 +1097,33 @@
 				198,
 				195
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1008,8 +1132,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Pig",
@@ -1042,19 +1174,33 @@
 				216,
 				213
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1063,8 +1209,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Clown",
@@ -1152,19 +1306,33 @@
 				254,
 				258
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				14,
+				8,
+				4,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1173,8 +1341,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Legion",
@@ -1300,19 +1476,33 @@
 			"IndividualAddonBans": [
 				318
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1321,8 +1511,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Demogorgon",
@@ -1353,19 +1551,33 @@
 				337,
 				328
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1374,8 +1586,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Oni",
@@ -1406,19 +1626,33 @@
 				357,
 				358
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1427,8 +1661,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Deathslinger",
@@ -1459,19 +1701,33 @@
 				378,
 				377
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				14,
+				8
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1480,8 +1736,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Executioner",
@@ -1509,19 +1773,33 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				14,
+				8,
+				4,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1530,8 +1808,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Blight",
@@ -1602,8 +1888,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Twins",
@@ -1735,8 +2029,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nemesis",
@@ -1803,8 +2105,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Cenobite",
@@ -1869,8 +2179,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Artist",
@@ -1901,19 +2219,33 @@
 				518,
 				515
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				14,
+				8,
+				4,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1922,8 +2254,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Onryo",
@@ -1991,8 +2331,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Dredge",
@@ -2026,19 +2374,33 @@
 				555,
 				554
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2047,8 +2409,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Mastermind",
@@ -2079,19 +2449,33 @@
 				578,
 				577
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2100,8 +2484,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Knight",
@@ -2133,19 +2525,33 @@
 				594,
 				595
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2154,8 +2560,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Skull Merchant",
@@ -2183,19 +2597,33 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2204,8 +2632,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Singularity",
@@ -2239,19 +2675,33 @@
 				628,
 				635
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				14,
+				8
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2260,8 +2710,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Xenomorph",
@@ -2295,19 +2753,33 @@
 				654,
 				655
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				4,
+				8,
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						3
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -2316,8 +2788,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Good Guy",
@@ -2382,8 +2862,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Unknown",
@@ -2451,8 +2939,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Lich",
@@ -2574,8 +3070,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Houndmaster",
@@ -2645,8 +3149,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Ghoul",
@@ -2714,8 +3226,16 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
