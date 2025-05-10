@@ -1,6 +1,6 @@
 {
 	"Name": "Loops 4 Lou Gehrig´s 2",
-	"Version": 1745289884,
+	"Version": 1746881430,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -499,9 +499,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -621,9 +620,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -700,9 +698,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -776,9 +773,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -850,9 +846,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -983,9 +978,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1057,9 +1051,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1133,9 +1126,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1210,9 +1202,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1265,7 +1256,12 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				5,
+				6
+			],
 			"KillerOfferings": []
 		},
 		{
@@ -1342,9 +1338,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1512,9 +1507,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1587,9 +1581,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1662,9 +1655,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1737,9 +1729,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -1889,9 +1880,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2030,9 +2020,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2043,7 +2032,7 @@
 		{
 			"Name": "The Nemesis",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8",
 				"33",
@@ -2106,9 +2095,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2180,9 +2168,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2255,9 +2242,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2332,9 +2318,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2410,9 +2395,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2485,9 +2469,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2561,9 +2544,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2633,9 +2615,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2711,9 +2692,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2789,9 +2769,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2863,9 +2842,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -2940,9 +2918,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3071,9 +3048,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3150,9 +3126,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
@@ -3227,9 +3202,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
-				3,
-				4,
 				5,
 				6
 			],
